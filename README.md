@@ -118,11 +118,3 @@ Open the local URL (e.g. `http://localhost:3000`) in your browser.
 This project is licensed under the **MIT License**.
 
 ---
-
-Let me know if you’d like:
-✨ Screenshots or demo GIFs
-📦 Convert to Vite/Next.js
-🔐 API key handling improvements
-🛠️ Deployment guide (Netlify/Vercel)
-
----
